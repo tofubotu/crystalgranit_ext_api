@@ -8,8 +8,9 @@ USERNAME = "***"
 PASSWORD = "***"
 
 # Sample PDF_ID, this should be tracked in DB
+
 pdf_id = "19c85c87-d464-407b-87e4-8174c996ee1d"
-sample = "random.pdf"
+sample = "randomg.pdf"
 api_token = "you_should_keep_live_token_in_db"
 
 
